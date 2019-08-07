@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\jhdil\OneDrive\Documents\Visual Studio 2019\Projects\The_ChernoProject\Main.cpp(22,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jhdil\OneDrive\Documents\Visual Studio 2019\Projects\The_ChernoProject\Main.cpp(24,21): warning C4018:  '<': signed/unsigned mismatch
+  The_ChernoProject.vcxproj -> C:\Users\jhdil\OneDrive\Documents\Visual Studio 2019\Projects\The_ChernoProject\Debug\The_ChernoProject.exe
